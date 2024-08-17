@@ -244,11 +244,12 @@ input[type=submit] {
   @media (max-width: 768px) {
 
     .table{
-        background: antiquewhite;
-        padding: 10px;
+        /* background: antiquewhite;
+        padding: 10px; */
     }
     .post-list{
-        width: 100%;
+        /* padding-right: 10px; */
+        width: 115%;
     }
     .category-list{
     width: 40%;
